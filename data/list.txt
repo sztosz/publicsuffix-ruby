@@ -5348,7 +5348,7 @@ org.pl
 aid.pl
 agro.pl
 atm.pl
-auto.pl
+// auto.pl
 biz.pl
 edu.pl
 gmina.pl
